@@ -1,6 +1,6 @@
-# Java Util ConcurrentHashMap
+# Java Util Concurrent
 
-## Java Util ConcurrentHashMap Class Line Number Statistics
+## Java Util Concurrent Class Line Number Statistics
 
 ### 1-500 (50)
 ScheduledFuture 48
