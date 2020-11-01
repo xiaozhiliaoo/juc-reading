@@ -107,18 +107,31 @@ CyclicBarrier 491
  
 
 ### 500-1000(12)
+
 ConcurrentMap 518
+
 ConcurrentSkipListSet 526
+
 AtomicIntegerFieldUpdater 542
+
 DelayQueue 557
+
 BlockingDeque 652
+
 AtomicLongFieldUpdater 660
+
 Exchanger 665
+
 Semaphore 707
+
 Executors 745
+
 ReentrantLock 763
+
 CountedCompleter 768
+
 CompletionStage 780
+
 ConcurrentLinkedQueue 949
 
 
